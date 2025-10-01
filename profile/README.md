@@ -1,14 +1,14 @@
 # صديق لمدة ساعة | Friend For Hour
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/FriendPerHour/FriendPerHour/main/assets/logo.jpeg" alt="Friend For Hour Logo" width="300"/>
+<img src="https://raw.githubusercontent.com/FriendPerHour/.github/main/assets/logo.jpeg" alt="Friend For Hour Logo" width="300"/>
 
-  
+
   ### منصة تفاعلية لتمكين ذوي الإعاقة من الدمج والاستقلالية في المجتمع
-  
-  **🌐 رابط المنصة المباشر:**  
+
+  **🌐 رابط المنصة المباشر:**
   ### **[https://friendperhourfront.vercel.app/](https://friendperhourfront.vercel.app/)**
-  
+
   [![Live Demo](https://img.shields.io/badge/🌐_زيارة_الموقع-Live_Demo-00d4aa?style=for-the-badge&labelColor=1a1a1a)](https://friendperhourfront.vercel.app/)
   [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
   [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
@@ -48,8 +48,8 @@
 
 ## 🎨 واجهة المستخدم
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FriendPerHour/FriendPerHour/main/assets/screencapture-localhost-8080-2025-09-30-15_30_03.png" alt="الصفحة الرئيسية" width="45%"/>
-  <img src="assets/screencapture-localhost-8080-dashboard-2025-09-30-15_31_12.png" alt="صفحة الملف الشخصي" width="45%"/>
+  <img src="https://raw.githubusercontent.com/FriendPerHour/.github/main/assets/screencapture-localhost-8080-2025-09-30-15_30_03.png" alt="الصفحة الرئيسية" width="45%"/>
+  <img src="https://raw.githubusercontent.com/FriendPerHour/.github/main/assets/screencapture-localhost-8080-dashboard-2025-09-30-15_31_12.png" alt="صفحة الملف الشخصي" width="45%"/>
 </div>
 
 ---
